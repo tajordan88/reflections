@@ -20,3 +20,14 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 You can use the staging area to make sure you have one commit per logical change by using git add to add files you want to commit to
 the staging area. Then you can use git commit to push these changes to the repository.
+
+
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be helpful in keeping my history of projects organized in several situations. One such situation would be if I wanted
+to add a new feature to the system that I wouldn't want to effect the main branch as it would be some extensive changes and I would want
+to keep the main branch as is incase the new change I was making didn't work out. I could also make multiple versions of, say, the same website
+- for example, an english version of a website, as well as a vietnamese version.
