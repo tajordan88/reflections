@@ -31,3 +31,23 @@ Branches would be helpful in keeping my history of projects organized in several
 to add a new feature to the system that I wouldn't want to effect the main branch as it would be some extensive changes and I would want
 to keep the main branch as is incase the new change I was making didn't work out. I could also make multiple versions of, say, the same website
 - for example, an english version of a website, as well as a vietnamese version.
+
+
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help you visualize the branch structure as they help you see at a glance how each branch links back to the original commit.
+
+
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together results in the merging of code between the two branches.
+We represent it in the diagram the way we do because it can get complicated so representing it this way
+helps to visualize the path of commit history.
+
+
