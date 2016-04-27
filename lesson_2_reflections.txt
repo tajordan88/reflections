@@ -51,3 +51,14 @@ We represent it in the diagram the way we do because it can get complicated so r
 helps to visualize the path of commit history.
 
 
+
+
+
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git's automatic merging allows for quick and easy merging of two or even multiple branches, while doing it manually is slower, yet you have control over what can be merged and can reduce mistakes upfront by doing it manually.
+
+
