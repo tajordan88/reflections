@@ -13,3 +13,15 @@ remote repository because you might not want to always apply the changes up on y
 current repository on your desktop. Your remote repository can be edited by other users and you want to
 analyze those changes before you pull them onto your local repository. Perhaps you'd want to pull them onto a
 separate branch.
+
+
+
+
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks create a copy of another person's repository on your github site. You would use this if you wanted to
+get a copy of someone's work so you can work on it, but have it link back to their repository so they get
+credit for it. Clones create a copy of a repository from one place to another. You can do this from Github account to GitHub account, or you can do this from Github account to your local machine. You would use this if
+you wanted to link your system to another. Branches create a local copy of your current branch (usually master). while maintaining the integrity of the branch you are making a copy of.
